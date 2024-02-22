@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_wishlist.</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-20 08:20:01</sys_created_on>
+        <sys_id>b27ea298932002104777b4697bba1099</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_wishlist.</sys_name>
+        <sys_package display_value="WishLIst" source="x_snc_wishlist">2bfce9a79f0002107f4445890124ab71</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WishLIst">2bfce9a79f0002107f4445890124ab71</sys_scope>
+        <sys_update_name>sys_user_role_b27ea298932002104777b4697bba1099</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-20 08:20:01</sys_updated_on>
+    </sys_user_role>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="WishLIst">2bfce9a79f0002107f4445890124ab71</application>
+        <file_path/>
+        <instance_id>3e389b92dbda3d90f697684e13961997</instance_id>
+        <instance_name>dev206301</instance_name>
+        <name>sys_user_role_b27ea298932002104777b4697bba1099</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_wishlist.</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-20 08:20:01</sys_created_on>
+        <sys_id>b27ea298932002104777b4697bba1099</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_wishlist.</sys_name>
+        <sys_package display_value="WishLIst" source="x_snc_wishlist">2bfce9a79f0002107f4445890124ab71</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WishLIst">2bfce9a79f0002107f4445890124ab71</sys_scope>
+        <sys_update_name>sys_user_role_b27ea298932002104777b4697bba1099</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-20 08:20:01</sys_updated_on>
+    </sys_user_role>
+</record_update>]]></payload>
+        <payload_hash>-472072762</payload_hash>
+        <record_name>x_snc_wishlist.</record_name>
+        <reverted_from/>
+        <source>3b155649932002104777b4697bba10a4</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-22 14:24:34</sys_created_on>
+        <sys_id>ec259649932002104777b4697bba105e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dd13430270000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-22 14:24:34</sys_updated_on>
+        <type>Role</type>
+        <update_guid>a8259649d62002106f8dc51a5b446c5e</update_guid>
+        <update_guid_history>a8259649d62002106f8dc51a5b446c5e:0,90e25a85ec200210e73348fb70ee4356:536195234,c58ea298402002101099ea34834194a4:-715772778</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_snc_wishlist.">c0455a49932002104777b4697bba10df</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-22 14:25:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>3fb31d61ff4b45188d0bce2fa734bf90</sys_id>
+        <sys_metadata>b27ea298932002104777b4697bba1099</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_wishlist.</sys_name>
+        <sys_package display_value="WishLIst" source="x_snc_wishlist">2bfce9a79f0002107f4445890124ab71</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="WishLIst">2bfce9a79f0002107f4445890124ab71</sys_scope>
+        <sys_scope_delete display_value="">10adb29aa67042e49273424f8a441c49</sys_scope_delete>
+        <sys_update_name>sys_user_role_b27ea298932002104777b4697bba1099</sys_update_name>
+        <sys_update_version display_value="sys_user_role_b27ea298932002104777b4697bba1099">ec259649932002104777b4697bba105e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-22 14:25:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
